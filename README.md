@@ -2,7 +2,7 @@
 
 ## Setup
 1. Download TensorFlow C library
-2. extract to `/usr/locale/lib`
+2. extract to `/usr/local/lib`
 3. configure the linker
 
 ```
